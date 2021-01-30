@@ -1,0 +1,17 @@
+.App {
+ height: 100%;
+ margin: 0, auto;
+}
+
+header{
+  min-height: 5%;
+}
+
+main{
+  min-height: 75%;
+}
+
+footer{
+  min-height: 5%;
+}
+

@@ -1,0 +1,22 @@
+
+.sec2{   
+    margin-top: 1%;
+    color: rgb(12, 177, 177);
+}
+
+
+label{
+    min-width: 100px;
+    font-size: 1.2em;
+
+}
+
+.btnlog{
+    background-color: rgb(12, 177, 177) !important;
+    font-weight: 500 !important;
+    margin-left: 15%;
+}
+
+.inplog {
+    display: inline !important;
+}

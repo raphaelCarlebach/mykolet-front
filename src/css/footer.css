@@ -1,0 +1,20 @@
+.all-footer{
+    background-color: black;
+    min-height: 100px;
+    color: white;
+    padding: 22px;
+    
+}
+
+.white{
+    font-family: 'Indie Flower', cursive;
+     color: white;
+     font-size: 26px; 
+        
+ }
+
+ .fhr {
+    border-top: 1px solid white !important;
+ }
+
+ 

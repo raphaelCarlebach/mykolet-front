@@ -1,0 +1,58 @@
+nav .logo{
+    font-family: 'Indie Flower', cursive;
+    color: black;
+    font-size: 35px;
+    background-color: rgb(12, 177, 177);
+    border-radius:57% 43% 80% 20% / 51% 50% 50% 49%; 
+    box-shadow: 0px 0px 5px 1px rgba(0,0,0,0.33);
+    margin-right: 12px;
+}
+
+nav .logo:hover{
+    text-decoration: none;
+    color: black;    
+}
+
+nav{
+    background-color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black !important; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color:rgb(12, 177, 177) !important;
+    /* text-decoration: underline; */
+    font-weight: bold;
+}
+
+a svg{
+    color:rgb(12, 177, 177);
+}
+
+/* .navbar-light .navbar-toggler-icon {
+    background-image: url(https://icon-library.com/images/icon-menu-png/icon-menu-png-5.jpg)!important;
+    border-radius: none !important;
+    background-size: cover;
+  } */
+
+.navbar-collapse.collapsing,
+.navbar-collapse.show li{
+text-align:center;  
+}
+
+.navbar-collapse.collapsing,
+.navbar-collapse.show li .nav-link.hellouser{
+   display: none;
+}
+
+
+
+
+
+
+
+

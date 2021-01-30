@@ -1,0 +1,149 @@
+.all{
+   margin-top: 15px;
+}
+
+.carousel{
+   max-height: 500px;
+}
+
+.slides{
+   background-color: rgb(12, 177, 177);
+   height:400px;
+   padding: 50px;
+   display: flex;  
+   align-items: center;  
+}
+
+.milkpic{
+   width: 300px;
+   height: auto;
+   transform: rotate(-5deg);
+   box-shadow: -5px 200px 119px -136px rgba(0,0,0,0.75);
+   margin-right: 150px;
+}
+
+.slide1{
+   display: flex;  
+   align-items: center;  
+}
+
+.slide1 p{   
+   color: white;
+   font-family: 'Cookie', cursive;
+   font-size: 52px;
+}
+
+.slide2{
+   display: flex;  
+   align-items: center; 
+   justify-content: space-around; 
+   
+}
+
+
+.slide2 h3{
+   font-family: 'Roboto', sans-serif;
+   font-size: 42px;
+   
+}
+
+.slide2 p{
+   font-family: 'Roboto', sans-serif;
+   font-size: 26px;
+   
+}
+
+.webapp{
+   width: 320px;
+   height: auto;
+}
+
+.welcome{
+  text-align: center;
+}
+
+.brand{
+   font-family: 'Indie Flower', cursive;
+    color: black;
+    
+}
+
+.slide3{
+   display: flex;  
+   align-items: center;  
+   justify-content: space-between;     
+}
+
+.strip1{
+   display: flex;    
+   justify-content: center;   
+   margin-top: 50px;  
+}
+
+.gicons{
+    width: 60%;
+   height: auto;
+}
+
+.strip2{
+   display: flex;    
+   justify-content: space-between;   
+   margin-top: 50px;
+   padding-right: 200px ;
+   padding-left: 200px ;
+   font-family: 'Roboto', sans-serif;
+     
+}
+
+.strip2 h3{
+   font-size: 36px;
+   margin-bottom: 0.7em;
+}
+
+.strip2 p{
+   font-size: 22px;
+}
+
+.glist{
+   max-width: 250px;
+   height: auto;
+}
+
+.strip2 span{
+   font-size: 22px;
+}
+
+.center{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.strip3{
+   background-color: rgb(12, 177, 177);
+   min-height: 250px;
+   font-family: 'Roboto', sans-serif;
+   padding: 16px; 
+   }
+
+.icon{
+   color: rgb(12, 177, 177);
+}
+
+.strip3 p{
+   font-size: 22px;
+   margin-top: 12px;
+   margin-left: 12px;
+  
+}
+
+.quote{ 
+   width: 50%;
+   margin-left:80px ;
+}
+
+.Cookie{
+   font-family: 'Cookie', cursive;
+   font-size: 30px;
+   
+}
